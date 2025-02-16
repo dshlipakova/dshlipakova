@@ -1,8 +1,7 @@
 ## 👋 Привет! 
 Меня зовут Дарья, я начинающий ручной тестировщик в процессе изучения автоматизации на Python 😌
 
----
-  ### 🛠 Используемые инструменты:
+## 🛠 Используемые инструменты:
   <div style="display: flex; align-items: center; gap: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="jira">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" width="40" height="40" alt="youtrack">
@@ -23,19 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode">
 </div>
 
----
-
-### 💻 Пройденные курсы:
+## 💻 Пройденные курсы:
 [Функциональное тестирование ПО (2025)]() (Тут будет ссылка)
 
----
+## 🔍 Тестовые артефакты:
 
-### 🔍 Тестовые артефакты:
-
-
----
-
-### 🤝 Для связи:
+## 🤝 Для связи:
 
   <div id="badges" style="display: flex; align-items: center; gap: 15px;">
     <a href="https://www.linkedin.com/in/daria-shlipakova/" target="_blank">
