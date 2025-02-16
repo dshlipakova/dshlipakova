@@ -30,16 +30,15 @@
 ## 🤝 Для связи:
 
 <div id="badges" style="display: flex; align-items: center; gap: 15px;">
-  <a href="https://www.linkedin.com/in/daria-shlipakova/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/daria-shlipakova/" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
   </a>
-  <a href="https://t.me/darjash" target="_blank" style="text-decoration: none;">
+  <a href="https://t.me/darjash" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
   </a>
-  <a href="mailto:dariashlipakova@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:dariashlipakova@gmail.com" target="_blank" style="text-decoration: none; border: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="45" height="35" alt="Gmail" />
   </a>
 </div>
-<br>
 
 ![](https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif?cid=ecf05e476ey8c62vvq8fykltxcld2f0a7thagpxujfjey03i&ep=v1_gifs_search&rid=giphy.gif&ct=g)
