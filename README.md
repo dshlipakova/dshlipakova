@@ -29,7 +29,7 @@
 [Тестирование веб-приложения и перехват трафика](https://github.com/dshlipakova/web_testing)  
 [REST и SOAP API в Postman](https://github.com/dshlipakova/api)  
 [MySQL и MongoDB](https://github.com/dshlipakova/database)  
-[Тестирование мобильного приложения и перехват трафика](https://github.com/dshlipakova/mobile)
+[Тестирование мобильного приложения и перехват трафика](https://github.com/dshlipakova/mobile)  
 [Git и Bash](https://github.com/dshlipakova/git_bash)
 
 ## 🤝 Для связи:
