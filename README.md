@@ -12,7 +12,7 @@
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="40" height="40" alt="soapui">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="android-studio">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="xcode">
-  <img src="https://static.macupdate.com/products/12462/l/charles-logo.png?v=1664281476" width="40" height="40" alt="charles-proxy">
+  <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" width="40" height="40" alt="charles-proxy">
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" width="40" height="40" alt="fiddler">
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" width="40" height="40" alt="proxyman">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql">
@@ -29,7 +29,7 @@
 
 ## 🤝 Для связи:
 
-  <div id="badges" style="display: flex; align-items: center; gap: 15px;">
+  <div id="badges", style="display: flex; align-items: center; gap: 15px;">
     <a href="https://www.linkedin.com/in/daria-shlipakova/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
