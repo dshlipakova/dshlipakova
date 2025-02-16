@@ -26,7 +26,11 @@
 [Функциональное тестирование ПО (2025)]() (Тут будет ссылка)
 
 ## 🔍 Тестовые артефакты:
-[Тестирование веб-приложения](dshlipakova/web_testing)
+[Тестирование веб-приложения и перехват трафика](https://github.com/dshlipakova/web_testing)  
+[REST и SOAP API в Postman](https://github.com/dshlipakova/api)  
+[MySQL и MongoDB](https://github.com/dshlipakova/database)  
+[Тестирование мобильного приложения и перехват трафика](https://github.com/dshlipakova/mobile)
+[Git и Bash](https://github.com/dshlipakova/git_bash)
 
 ## 🤝 Для связи:
 
@@ -34,7 +38,7 @@
   <a href="https://www.linkedin.com/in/daria-shlipakova/" style="margin-right: 15px";><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" /></a>
   <a href="https://t.me/darjash" style="margin-right: 15px;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" /></a>
   <a href="mailto:dariashlipakova@gmail.com" style="margin-right: 15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="45" height="35" alt="Gmail" /></a>
-</p>
-<br>
+</p>   
+   
 
 ![](https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif?cid=ecf05e476ey8c62vvq8fykltxcld2f0a7thagpxujfjey03i&ep=v1_gifs_search&rid=giphy.gif&ct=g)
