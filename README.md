@@ -28,7 +28,7 @@
 Стажировка в UR.dev (2025)
 
 ## 🔍 Тестовые артефакты:
-[Тестирование веб-приложения и перехват трафика](https://github.com/dshlipakova/web_testing)  
+[Тестирование веб-приложений и перехват трафика](https://github.com/dshlipakova/web_testing)  
 [REST и SOAP API в Postman](https://github.com/dshlipakova/api)  
 [MySQL и MongoDB](https://github.com/dshlipakova/database)  
 [Тестирование мобильного приложения и перехват трафика](https://github.com/dshlipakova/mobile)  
