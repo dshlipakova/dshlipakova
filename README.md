@@ -1,6 +1,5 @@
 ## 👋 Привет! 
 Меня зовут Дарья, я начинающий ручной тестировщик в процессе изучения автоматизации на Python 😌   
-<!-- С резюме можно ознакомиться [здесь](https://drive.google.com/file/d/1xBHJdEX-PlYP9mfgZNLFoUGQj5gWGw9M/view?usp=sharing) :shipit: -->
 
 ## 🛠 Используемые инструменты:
   <div style="display: flex; align-items: center; gap: 15px;">
